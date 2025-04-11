@@ -1,0 +1,69 @@
+word,expected
+# Rule 1: unsplittable clusters (hj, hl, hm, hn, hr, nj)
+dahje,da-hje
+gihli,gi-hli
+liehmu,lie-hmu
+čáihni,čái-hni
+čáihnnis,čáihn-nis
+skuhrrat,skuhr-rat
+skuhran,sku-hran
+manjit,ma-njit
+mannji,man-nji
+munnje,mun-nje
+# Rule 2: dj, lj handling
+ádjás,ád-jás
+áddjá,ád-djá
+vieljas,viel-jas
+viellja,viel-lja
+# Rule 3: bm, dn, dnj, gŋ unsplit when following one consonant
+lieđbmi,lieđ-bmi
+áibmi,ái-bmi
+albmi,al-bmi
+fierbmi,fier-bmi
+suoldni,suol-dni
+suoidni,suoi-dni
+sárdni,sár-dni
+oaidnit,oai-dnit
+bárdni,bár-dni
+gardnjil,gar-dnjil
+doavdnji,doav-dnji
+beađgŋá,beađ-gŋá
+vuoigŋa,vuoi-gŋa
+jalgŋá,jal-gŋá
+goargŋut,goar-gŋut
+# double consonants
+allodatnjuiken,al-lo-dat-njui-ken
+guolli,guol-li
+láibbit,láib-bit
+geađggit,geađg-git
+ruovttoluotta,ruovt-to-luot-ta
+áhčči,áhč-či
+# oea
+ádjoeana,ád-jo-ea-na
+álgoeallit,ál-go-eal-lit
+# eoa
+basteoaivi,bas-te-oai-vi
+# uoa
+stáluoaivi,stá-lu-oai-vi
+# consonant + 's' or 'š' + consonant
+rámški,rámš-ki
+máistit,máis-tit
+hávski,hávs-ki
+# Other test cases
+suollemassandoallangeatnegasvuohta,suol-le-mas-san-doal-lan-geat-ne-gas-vuoh-ta
+muitalit,mui-ta-lit
+áhčis,áh-čis
+gušta,guš-ta
+beana,bea-na
+geađgi,geađ-gi
+beatnagiiguin,beat-na-gii-guin
+veardidit,vear-di-dit
+geaiganit,geai-ga-nit
+kantuvra,kan-tuv-ra
+rašášit,ra-šá-šit
+álbmogiidgaskasaš,ál-bmo-giid-gas-ka-saš
+áššiidgohcci,áš-šiid-gohc-ci
+áiccuidgeassi,áic-cuid-geas-si
+aitosašáššiid,ai-to-saš-áš-šiid
+ándagasátnun,án-da-gas-át-nun
+gieddegeašáhkku,gied-de-geaš-áhk-ku
